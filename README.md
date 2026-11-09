@@ -16,20 +16,11 @@ Systems built over time include (among others):
 
 This public page is a **landing / reference** for reviewers. Full plugin source is **not** published here on purpose.
 
-## Also: education web work
-
-Built and hosted the public site for **Hasan Aygül Akademi** (private tutoring academy, Malatya):  
-https://hasanaygulakademi.com/  
-Flextir web hosting setup + front-end / site development (with AI-assisted workflow).
 
 ## Contact / links
 
 - Email: tehamza44@gmail.com  
-- X: [x.com/hamzatdev](https://x.com/hamzatdev)  
 - LinkedIn: [linkedin.com/in/hamza-t-984253424](https://www.linkedin.com/in/hamza-t-984253424/)  
 - GitHub: [hamzatdev1](https://github.com/hamzatdev1)  
 - YouTube: [@ageofmcc](https://www.youtube.com/@ageofmcc)
 
-## For recruiters (e.g. xAI)
-
-Source samples (AgeChat translation, professions, Skript archives, etc.) are provided **privately via the application portfolio upload**, not as a public code dump.
